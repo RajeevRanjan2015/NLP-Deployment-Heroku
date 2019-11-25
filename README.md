@@ -1,6 +1,8 @@
 # Spam-Classifier [NLP]
 
 Classification of spam and ham by BagOfWord and TF-IDF model
+###working model:
+https://rajeevranjanai.herokuapp.com/
 
 ## Aim:
 
