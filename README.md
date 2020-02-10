@@ -26,6 +26,13 @@ TF-IDF: TF= Term Frequency, IDF=Inverse Document Frequency
         TF-IDF=TF*IDF 
 
 
+### How to run app:
+
+1. Download the repository.
+2. open anaconda command prompt and go to the stored folder and run python app.py
+3. After running app.py, the flask framework will get created on to your system locally and it will produce you a url by which you can access the application home page.
+4. For deployment of the app on the web i.e., Heroku you need to connect you git by heroku. You can create new app there and store this repo there. All the further steps will be there which is very easy to tackle in order to deploy the model on web. This is user friendlt framework so anyone can easily follow each steps.
+
 ## Result:
 
 The accuracy achieved by Bag of Word model:  98.21  %
