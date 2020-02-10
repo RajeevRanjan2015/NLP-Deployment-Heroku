@@ -30,3 +30,7 @@ TF-IDF: TF= Term Frequency, IDF=Inverse Document Frequency
 
 The accuracy achieved by Bag of Word model:  98.21  %
 The accuracy achieved by TF-IDF:  97.67  %
+
+### Application:
+
+![Homepage](https://github.com/RajeevRanjan2015/NLP-Deployment-Heroku-spam-ham-classifier-/blob/master/home%20page.PNG)
